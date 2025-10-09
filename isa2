@@ -7,7 +7,8 @@ https://bit.ly/46wYxK8
 #EXTINF:-1 tvg-logo="",TOTAL IPTV
 https://iptv-org.github.io/iptv/languages/spa.m3u
 
-
+#EXTINF:-1 tvg-logo="",xxx
+https://raw.githubusercontent.com/tokio14-dot/isa/refs/heads/main/xxxx
 
 
 
