@@ -1,7 +1,7 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-logo="",Isaxd183
+#EXTINF:-1 tvg-logo="",peliculas
 https://raw.githubusercontent.com/Isaxd183/Apk/refs/heads/main/Iptv
 #EXTINF:-1 tvg-logo="",series Musica
 https://raw.githubusercontent.com/Isaxd183/Apk/refs/heads/main/Series%20m%C3%BAsica
