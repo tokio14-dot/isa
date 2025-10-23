@@ -5,9 +5,11 @@
 https://raw.githubusercontent.com/Isaxd183/Apk/refs/heads/main/Iptv
 #EXTINF:-1 tvg-logo="",Series Animación 
 https://raw.githubusercontent.com/Isaxd183/Apk/refs/heads/main/Series%20Animaci%C3%B3n
+#EXTINF:-1 tvg-logo="",Series Aventura
+https://raw.githubusercontent.com/Isaxd183/Apk/refs/heads/main/Series%20Aventura
 #EXTINF:-1 tvg-logo="",Series Cime romántico
 https://raw.githubusercontent.com/Isaxd183/Apk/refs/heads/main/Series%20Cine%20rom%C3%A1ntico
-#EXTINF:-1 tvg-logo="", Serie Dramas
+#EXTINF:-1 tvg-logo="",Serie Dramas
 https://raw.githubusercontent.com/Isaxd183/Apk/refs/heads/main/Series%20Drama
 #EXTINF:-1 tvg-logo="",Serie Drama Adolescente 
 https://raw.githubusercontent.com/Isaxd183/Apk/refs/heads/main/Series%20Drama%20adolescente
